@@ -12,5 +12,6 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
         server: ftp.jtpdc.xyz
-        username: muhib@dev.reflexit.com.bd
+        username: muhib
         password: accmuhib00000
+        server-dir: dev.reflexit.com.bd
