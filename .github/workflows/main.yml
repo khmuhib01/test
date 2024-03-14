@@ -14,4 +14,4 @@ jobs:
         server: ftp.reflexit.com.bd
         username: muhib@dev.reflexit.com.bd
         password: accmuhib00000
-        server-dir: ./dev.reflexit.com.bd/
+        server-dir: ./
