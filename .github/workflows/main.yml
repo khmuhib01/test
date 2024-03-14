@@ -11,7 +11,7 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        server: ftp.jtpdc.xyz
+        server: ftp.reflexit.com.bd
         username: muhib@dev.reflexit.com.bd
         password: accmuhib00000
         server-dir: /home/jtpdcxyz/dev.reflexit.com.bd/
